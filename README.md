@@ -1,4 +1,4 @@
-# 🌍 Lifting Hands International – Squarespace 7.1 Inspired Website (Clone)
+# 🌍 Lifting Hands International Inspired Website – Squarespace 7.1  
 
 A custom-built, structure-inspired nonprofit website using **Squarespace 7.1**, based on the original site of **Lifting Hands International**. While the site follows the same general structure (sections, pages, navigation), the layout, design, and content presentation have been **entirely customized** to demonstrate creative flexibility and design thinking within the Squarespace platform.
 
